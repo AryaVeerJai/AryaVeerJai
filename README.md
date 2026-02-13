@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm currently working on Attendance Management System
 
 
 ## 🌐 Socials:
